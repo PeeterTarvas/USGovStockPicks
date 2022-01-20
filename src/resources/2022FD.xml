@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FinancialDisclosure>
+  <Member>
+    <Prefix />
+    <Last>Aadland</Last>
+    <First>Erik</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CO07</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/17/2022</FilingDate>
+    <DocID>10044401</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Awtrey</Last>
+    <First>Patrick Eugene</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH14</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/4/2022</FilingDate>
+    <DocID>10044323</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Beyer</Last>
+    <First>Donald Sternoff</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>VA08</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/1/2022</FilingDate>
+    <DocID>20020047</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Blumenauer</Last>
+    <First>Earl</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OR03</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/6/2022</FilingDate>
+    <DocID>20020168</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Buchanan</Last>
+    <First>Vern</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL16</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/17/2022</FilingDate>
+    <DocID>20020238</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Cole</Last>
+    <First>Tom</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK04</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/19/2022</FilingDate>
+    <DocID>8218534</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Crenshaw</Last>
+    <First>Daniel</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX02</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/10/2022</FilingDate>
+    <DocID>20020189</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Crenshaw</Last>
+    <First>Daniel</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX02</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/10/2022</FilingDate>
+    <DocID>20020197</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>DelBene</Last>
+    <First>Suzan K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/9/2022</FilingDate>
+    <DocID>20020134</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Doggett</Last>
+    <First>Lloyd</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX35</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/10/2022</FilingDate>
+    <DocID>20020191</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Fleischmann</Last>
+    <First>Charles J. "Chuck"</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN03</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/19/2022</FilingDate>
+    <DocID>8218535</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Foxx</Last>
+    <First>Virginia</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC05</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/5/2022</FilingDate>
+    <DocID>20020153</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Frankel</Last>
+    <First>Lois</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL21</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/16/2022</FilingDate>
+    <DocID>20020235</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Garbarino</Last>
+    <First>Andrew</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NY02</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/14/2022</FilingDate>
+    <DocID>20020231</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gibbs</Last>
+    <First>Bob</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH07</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/6/2022</FilingDate>
+    <DocID>20020166</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gottheimer</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NJ05</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/10/2022</FilingDate>
+    <DocID>20020154</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Green</Last>
+    <First>Mark Dr</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN07</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/3/2022</FilingDate>
+    <DocID>20019881</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Green</Last>
+    <First>Mark Dr</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN07</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/18/2022</FilingDate>
+    <DocID>20020188</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/11/2022</FilingDate>
+    <DocID>20020202</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Khanna</Last>
+    <First>Rohit</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA17</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/7/2022</FilingDate>
+    <DocID>8218518</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Kustoff</Last>
+    <First>David</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN08</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/10/2022</FilingDate>
+    <DocID>8218527</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Langevin</Last>
+    <First>James R.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>RI02</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/5/2022</FilingDate>
+    <DocID>20020152</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lewis</Last>
+    <First>Nathan Allen</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TX19</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/18/2022</FilingDate>
+    <DocID>40003296</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lofgren</Last>
+    <First>Zoe</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA19</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/7/2022</FilingDate>
+    <DocID>20020179</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lowenthal</Last>
+    <First>Alan S.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/6/2022</FilingDate>
+    <DocID>20020167</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McKinley</Last>
+    <First>David B.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WV01</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/14/2022</FilingDate>
+    <DocID>20020158</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Miller</Last>
+    <First>Carol Devine</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WV03</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/14/2022</FilingDate>
+    <DocID>20020233</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Monteforte</Last>
+    <First>Michael A.</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>A</FilingType>
+    <StateDst>VA07</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/12/2022</FilingDate>
+    <DocID>10044377</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Monteforte</Last>
+    <First>Michael A.</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>VA07</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/12/2022</FilingDate>
+    <DocID>10044375</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Moore</Last>
+    <First>Blake</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>UT01</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/8/2022</FilingDate>
+    <DocID>20020135</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Newman</Last>
+    <First>Marie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>IL03</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/8/2022</FilingDate>
+    <DocID>20020145</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Pascrell</Last>
+    <First>Bill</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>NJ09</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/18/2022</FilingDate>
+    <DocID>20020216</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Pelosi</Last>
+    <First>Nancy</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA12</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/12/2022</FilingDate>
+    <DocID>20020208</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Price</Last>
+    <First>David E.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC04</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/10/2022</FilingDate>
+    <DocID>20020196</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Raths</Last>
+    <First>Greg</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA40</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/6/2022</FilingDate>
+    <DocID>10044339</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Ross</Last>
+    <First>Deborah K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC02</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/8/2022</FilingDate>
+    <DocID>20020182</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Rouzer</Last>
+    <First>David Cheston</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC07</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/17/2022</FilingDate>
+    <DocID>20020237</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Scott</Last>
+    <First>Robert C. "Bobby"</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>VA03</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/10/2022</FilingDate>
+    <DocID>20020194</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Sigala</Last>
+    <First>Angelina</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA13</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/16/2022</FilingDate>
+    <DocID>10044394</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Suozzi</Last>
+    <First>Thomas</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NY03</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/11/2022</FilingDate>
+    <DocID>20020195</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>Nicholas V.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX03</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/14/2022</FilingDate>
+    <DocID>20017965</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Trahan</Last>
+    <First>Lori</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MA03</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/11/2022</FilingDate>
+    <DocID>20020161</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Wittman</Last>
+    <First>Robert J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>VA01</StateDst>
+    <Year>2022</Year>
+    <FilingDate>1/9/2022</FilingDate>
+    <DocID>20020184</DocID>
+  </Member>
+</FinancialDisclosure>

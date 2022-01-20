@@ -1,0 +1,359 @@
+{
+  "bytes": 3298067,
+  "datahub": {
+    "created": "2017-11-09T01:16:16.808428",
+    "findability": "published",
+    "flowid": "core/nyse-other-listings/7",
+    "modified": "2018-03-15T06:38:01.624109",
+    "owner": "core",
+    "ownerid": "core"
+  },
+  "hash": "fb543620be8343ec2facfd61e4acbf30",
+  "id": "core/nyse-other-listings",
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Public Domain Dedication and License"
+    }
+  ],
+  "name": "nyse-other-listings",
+  "resources": [
+    {
+      "bytes": 174297,
+      "datahub": {
+        "type": "original"
+      },
+      "dpp:streamedFrom": "https://s3.amazonaws.com/rawstore.datahub.io/43698120bd7f160e781cb183f015f665.csv",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "nyse-listed_original",
+      "path": "archive/nyse-listed.csv",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "ACT Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "bytes": 614855,
+      "datahub": {
+        "type": "original"
+      },
+      "dpp:streamedFrom": "https://s3.amazonaws.com/rawstore.datahub.io/7721b37868dd1f67216b4beb8c79ccb4.csv",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "other-listed_original",
+      "path": "archive/other-listed.csv",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "ACT Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Security Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Exchange",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "CQS Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "ETF",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Round Lot Size",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "Test Issue",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "NASDAQ Symbol",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "bytes": 1259,
+      "datahub": {
+        "type": "derived/report"
+      },
+      "description": "Validation report for tabular data",
+      "dpp:streamedFrom": "/tmp/tmpvmtvn2wf/core/nyse-other-listings/validation_report/data/e79f51dcafe90b8694872b124727e00f/validation_report.json",
+      "encoding": "utf-8",
+      "format": "json",
+      "hash": "e79f51dcafe90b8694872b124727e00f",
+      "name": "validation_report",
+      "path": "data/validation_report.json",
+      "profile": "data-resource"
+    },
+    {
+      "bytes": 177591,
+      "datahub": {
+        "derivedFrom": [
+          "nyse-listed"
+        ],
+        "type": "derived/csv"
+      },
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "/tmp/tmpvmtvn2wf/core/nyse-other-listings/nyse-listed_csv/data/3c88fab8ec158c3cd55145243fe5fcdf/nyse-listed_csv.csv",
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "3c88fab8ec158c3cd55145243fe5fcdf",
+      "mediatype": "text/csv",
+      "name": "nyse-listed_csv",
+      "path": "data/nyse-listed_csv.csv",
+      "profile": "data-resource",
+      "rowcount": 3298,
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "ACT Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          }
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 620019,
+      "datahub": {
+        "derivedFrom": [
+          "other-listed"
+        ],
+        "type": "derived/csv"
+      },
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "/tmp/tmpvmtvn2wf/core/nyse-other-listings/other-listed_csv/data/9f38660d84fe6ba786a4444b815b3b80/other-listed_csv.csv",
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "9f38660d84fe6ba786a4444b815b3b80",
+      "mediatype": "text/csv",
+      "name": "other-listed_csv",
+      "path": "data/other-listed_csv.csv",
+      "profile": "data-resource",
+      "rowcount": 5199,
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "ACT Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Security Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Exchange",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "CQS Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "ETF",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "description": "",
+            "groupChar": "",
+            "name": "Round Lot Size",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "Test Issue",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "NASDAQ Symbol",
+            "type": "string"
+          }
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 293939,
+      "datahub": {
+        "derivedFrom": [
+          "nyse-listed"
+        ],
+        "type": "derived/json"
+      },
+      "dpp:streamedFrom": "/tmp/tmpvmtvn2wf/core/nyse-other-listings/nyse-listed_json/data/e8ad01974d4110e790b227dc1541b193/nyse-listed_json.json",
+      "encoding": "utf-8",
+      "format": "json",
+      "hash": "e8ad01974d4110e790b227dc1541b193",
+      "mediatype": "text/csv",
+      "name": "nyse-listed_json",
+      "path": "data/nyse-listed_json.json",
+      "profile": "data-resource",
+      "rowcount": 3298,
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "ACT Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          }
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 1414891,
+      "datahub": {
+        "derivedFrom": [
+          "other-listed"
+        ],
+        "type": "derived/json"
+      },
+      "dpp:streamedFrom": "/tmp/tmpvmtvn2wf/core/nyse-other-listings/other-listed_json/data/e95106d7c30d265a719c5ff43843907a/other-listed_json.json",
+      "encoding": "utf-8",
+      "format": "json",
+      "hash": "e95106d7c30d265a719c5ff43843907a",
+      "mediatype": "text/csv",
+      "name": "other-listed_json",
+      "path": "data/other-listed_json.json",
+      "profile": "data-resource",
+      "rowcount": 5199,
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "ACT Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Security Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Exchange",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "CQS Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "ETF",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Round Lot Size",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "Test Issue",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "NASDAQ Symbol",
+            "type": "string"
+          }
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 1216,
+      "dpp:streamedFrom": "/tmp/tmpstfqlp1y/README.md",
+      "format": "md",
+      "name": "readme",
+      "path": "README.md"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASDAQ official page",
+      "path": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs",
+      "title": "NASDAQ official page"
+    }
+  ],
+  "title": "NYSE and Other Listings"
+}
