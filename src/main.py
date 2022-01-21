@@ -14,7 +14,8 @@ async def root():
 
 @app.get("/str")
 async def test_request():
-    scraper = Scraper()
-    response = scraper.do_request_to_search().text
-    return response
+    scraper = Scraper(2022)
+    scraper.download_pdfs()
+    return "a"
+
 
