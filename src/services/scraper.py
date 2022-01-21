@@ -1,7 +1,8 @@
 from datetime import date
 import requests
-from urllib.parse import urlencode
 from bs4 import BeautifulSoup
+import pdfbox
+
 
 
 class Scraper:
@@ -25,16 +26,18 @@ class Scraper:
     def download_pdfs(self):
         links = self.page_scraper.find_all('a')
         print(len(links))
-        i = 0
+        done = False
         for link in links:
             if '.pdf' in link.get('href', []):
                 response = requests.get("https://disclosures-clerk.house.gov" + link.get('href'))
-                pdf = open("../resources/records/" + str(link.text.split("..")[1].replace(" ", ""))
-                           + str(self.year) + ".pdf", 'wb+')
+                name = str(link.text.split("..")[1].replace(" ", "")) + str(self.year) + ".pdf"
+                pdf = open("/home/peeter/PycharmProjects/fastApiProject/src/resources/records/" + name,  'wb+')
                 pdf.write(response.content)
                 pdf.close()
+
                 print("File ", link.get('href'), " downloaded")
-                i += 1
-            break
+
+                # Convert pdf to txt file
+                pdfbox.PDFBox().extract_text("/home/peeter/PycharmProjects/fastApiProject/src/resources/records/" + name)
 
 
