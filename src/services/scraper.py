@@ -3,11 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import pdfbox
-import sys
 
-sys.path.append("..")
-from paths import path_to_records
-
+path_to_records = "/home/peeter/PycharmProjects/fastApiProject/src/resources/records/"
 
 class Scraper:
 
