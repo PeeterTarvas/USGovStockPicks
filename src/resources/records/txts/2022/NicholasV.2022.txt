@@ -1,0 +1,40 @@
+PerioDic tranSaction rePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Nicholas V. Taylor
+Status: Member
+State/District: TX03
+tranSactionS
+iD owner asset transaction
+type
+Date notification
+Date
+amount cap.
+gains >
+$200?
+Ranger Energy Services, Inc. Class
+A (RNGR) [ST]
+E 12/17/2021 12/17/2021 $15,001 -
+$50,000
+gfedc
+FILING STATUS: New
+SUbHOLDING OF: VanAnne Holdings LLC GP > Dagger Management LP > Texican Land Company LP > Torrent Energy
+Holdings, LLC
+DESCRIPTION: Exchange of Torrent Energy Holdings for Ranger Energy Services, Inc.
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+VanAnne Holdings LLC GP
+LOCATION: US
+VanAnne Holdings LLC GP ⇒ Dagger Management LP
+LOCATION: US
+VanAnne Holdings LLC GP ⇒ Dagger Management LP ⇒ Texican Land Company LP
+LOCATION: US
+VanAnne Holdings LLC GP ⇒ Dagger Management LP ⇒ Texican Land Company LP ⇒ Torrent Energy Holdings, LLC
+LOCATION: US
+initial Public offeringS
+nmlkj  Yes nmlkji  No
+certification anD Signature
+gfedcb  I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Filing ID #20017965
+Digitally Signed: Hon. Nicholas V. Taylor , 01/14/2022

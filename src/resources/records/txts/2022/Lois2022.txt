@@ -1,0 +1,94 @@
+PerioDic tranSaction rePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, DC 20515
+filer information
+name: Hon. Lois Frankel
+Status: Member
+State/District: FL21
+tranSactionS
+iD owner asset transaction
+type
+Date notification
+Date
+amount cap.
+gains >
+$200?
+American Express Company (AXP)
+[ST]
+P 12/03/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+bWX Technologies, Inc. (bWXT)
+[ST]
+P 12/10/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Chubb Limited (Cb) [ST] S (partial) 12/03/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+DENTSPLY SIRONA Inc. (XRAY)
+[ST]
+S (partial) 12/03/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+DENTSPLY SIRONA Inc. (XRAY)
+[ST]
+S 12/05/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+DuPont de Nemours, Inc. (DD)
+[ST]
+P 12/09/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Filing ID #20020235
+EPAM Systems, Inc. (EPAM) [ST] S (partial) 12/09/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+FIRST REPubLIC bANK (FRC)
+[ST]
+S (partial) 12/09/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Insperity, Inc. (NSP) [ST] P 12/10/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+Intel Corporation (INTC) [ST] S 12/08/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Intel Corporation (INTC) [ST] S (partial) 12/03/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Kimberly-Clark Corporation
+(KMb) [ST]
+S (partial) 12/15/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Merck & Company, Inc. Common
+Stock (MRK) [ST]
+P 12/03/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X141
+Zimmer biomet Holdings, Inc.
+(ZbH) [ST]
+P 12/10/2021 01/15/2022 $1,001 - $15,000 gfedc
+FILING STATuS: New
+SubHOLDING OF: Morgan Stanley IRA - X142
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Morgan Stanley IRA - X141
+DESCRIPTION: Managed by MFS Investment MGMT 
+iD owner asset transaction
+type
+Date notification
+Date
+amount cap.
+gains >
+$200?
+Morgan Stanley IRA - X142
+DESCRIPTION: Managed by Anchor Capital Advisors LLC 
+initial Public offeringS
+nmlkj  Yes nmlkji  No
+certification anD Signature
+gfedcb  I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Lois Frankel , 01/16/2022

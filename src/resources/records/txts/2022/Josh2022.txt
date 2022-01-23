@@ -1,0 +1,181 @@
+PerioDic tranSaction rePort
+Clerk of the House of Representatives • Legislative Resource Center • 135 Cannon building • Washington, dC 20515
+filer information
+name: Hon. Josh Gottheimer
+Status: Member
+State/District: NJ05
+tranSactionS
+iD owner asset transaction
+type
+Date notification
+Date
+amount cap.
+gains >
+$200?
+JT Affirm Holdings, Inc. - Class A
+(AFRM) [ST]
+S (partial) 12/28/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Air Products and Chemicals, Inc.
+(APd) [ST]
+P 12/06/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Alibaba Group Holding Limited
+American depositary Shares each
+representing eight Ordinary share
+(bAbA) [ST]
+S 12/08/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) [ST] P 12/14/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Azenta, Inc. (AZTA) [ST] S (partial) 12/15/2021 01/04/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Azenta, Inc. (AZTA) [ST] S (partial) 12/03/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+Filing Id #20020154
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT balchem Corporation (bCPC) [ST] S (partial) 12/02/2021 01/04/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT biogen Inc. (bIIb) [ST] S (partial) 12/09/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Capital One Financial Corporation
+(COF) [ST]
+S (partial) 12/09/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT ChemoCentryx, Inc. (CCXI) [ST] P 12/02/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Crown Castle International Corp.
+(CCI) [ST]
+P 12/06/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT ENN Energy Holdings Ltd
+Unsponsored AdR (XNGSY) [ST]
+P 12/21/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT HealthEquity, Inc. (HQY) [ST] S (partial) 12/09/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Intra-Cellular Therapies Inc. (ITCI)
+[ST]
+P 12/21/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Itau Unibanco banco Holding SA
+American depositary Shares
+(ITUb) [ST]
+S 12/21/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+iD owner asset transaction
+type
+Date notification
+Date
+amount cap.
+gains >
+$200?
+JT Match Group, Inc. (MTCH) [ST] S (partial) 12/01/2021 01/04/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Meta Platforms, Inc. - Class A (Fb)
+[ST]
+S (partial) 12/02/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Meta Platforms, Inc. - Class A (Fb)
+[ST]
+S (partial) 12/29/2021 01/04/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Microsoft Corporation (MSFT) [ST] S (partial) 12/06/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Minerals Technologies Inc. (MTX)
+[ST]
+P 12/15/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Nitori Holdings Co. Ltd AdR
+(NCLTY) [OT]
+S (partial) 12/09/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+LOCATION: US
+dESCRIPTION: AdR stock
+JT Ollie's bargain Outlet Holdings,
+Inc. (OLLI) [ST]
+S (partial) 12/09/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Pharmaceutical GRP LTd (CSPCY)
+[OT]
+S (partial) 12/09/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+LOCATION: US
+dESCRIPTION: AdR Stock
+JT Phreesia, Inc. (PHR) [ST] P 12/15/2021 01/04/2022 $1,001 - $15,000 gfedc
+iD owner asset transaction
+type
+Date notification
+Date
+amount cap.
+gains >
+$200?
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Ping An Insurance (PNGAY) [ST] S (partial) 12/28/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Skyline Champion Corporation
+(SKY) [ST]
+S (partial) 12/02/2021 01/04/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Snap Inc. Class A (SNAP) [ST] S (partial) 12/09/2021 01/04/2022 $1,001 - $15,000 gfedcb
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Tencent Holdings Limited
+Unsponsored AdR Representing b
+Shares (TCEHY) [ST]
+S (partial) 12/28/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT Verizon Communications Inc. (VZ)
+[ST]
+S (partial) 12/09/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT XP Inc. - Class A (XP) [ST] P 12/22/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+JT XP Inc. - Class A (XP) [ST] P 12/21/2021 01/04/2022 $1,001 - $15,000 gfedc
+FILING STATUS: New
+SUbHOLdING OF: Morgan Stanley - Select UMA Account # 1
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+aSSet claSS DetailS
+Morgan Stanley - Select UMA Account # 1 (Owner: JT)
+LOCATION: US
+iD owner asset transaction
+type
+Date notification
+Date
+amount cap.
+gains >
+$200?
+initial Public offeringS
+nmlkj  Yes nmlkji  No
+certification anD Signature
+gfedcb  I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Josh Gottheimer , 01/10/2022
