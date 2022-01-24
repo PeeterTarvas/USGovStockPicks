@@ -1,11 +1,8 @@
 import sys
 import os
 import regex as re
-import regex.regex
 
 sys.path.append(os.path.abspath("/home/peeter/PycharmProjects/fastApiProject/src/services"))
-import scraper
-
 path_to_records = "/home/peeter/PycharmProjects/fastApiProject/src/resources/records/"
 
 
@@ -25,11 +22,17 @@ class Formatter:
         self.year = year
 
     def create_csvs_from_text(self):
+        databs: dict = {}
         for i in self.file_names:
             print(f"Formatting {i}")
             txt = open(path_to_records + f"txts/{str(self.year)}/" + i, 'r')
             try:
                 text = txt.read().upper()
+                # Find the full name of repr
+                name = re.findall("(?<=NAME: HON.\s).{3,}", text)[0]
+                databs[name] = []
+
+
                 text = text.split("TRANSACTIONS")
                 # transaction splits the file into two where the second part consists of financial information
                 text = text[1].split('gfedc'.upper())[:-2]
@@ -37,15 +40,13 @@ class Formatter:
                 # the last part because it is the certificate
                 owns = text
                 for field in owns:
-                    print(field)
-                    print(self.find_stock_and_amnt(field))
-                # form_field = field.split('\n')  # split at newline so it would look nicer
-                # for m in form_field:
-                #     print(m)
-            #
+                    asset = self.find_stock_and_amnt(field)[0].replace("\n", " ")
+                    databs.get(name).append(asset)
 
             except IndexError:
                 print(f"Trouble reading {i}")
+        for k, i in databs.items():
+            print(f"{k}: has {i}\n")
 
     def find_stock_and_amnt(self, form_filed: str):
         """
@@ -63,17 +64,16 @@ class Formatter:
         """
 
         if "$200?" in form_filed:
-            print("$200")
             # This finds everything after $200 and if it is a multi line statement removes newline marks
             return re.findall("(?<=200.\s).{3,}[\s\S]*", form_filed)
         elif "FILING ID" in form_filed:
-            if "SUBHOLDING OF:" in form_filed:
-                return "SUBHOLDING OF:"
-            return "FILING ID"
+            # Currently, leaves in the id value, not sure how to regex it away
+            return re.findall("(?<=FILING ID\s).{3,}[\s\S]*", form_filed)
         elif "DESCRIPTION:" in form_filed:
-            return "DESCRIPTION:"
+            # Currently, leaves in some stuff that isnt that important
+            return re.findall("(?<=DESCRIPTION:\s).{3,}[\s\S]*", form_filed)
         elif "SUBHOLDING OF:" in form_filed:
-            return "SUBHOLDING OF:"
+            return re.findall("(?<=SUBHOLDING OF:\s).{3,}[\s\S]*", form_filed)
         elif "FILING STATUS: NEW" in form_filed:
-            return "FILING STATUS: NEW"
+            return re.findall("(?<=NEW\s).{3,}[\s\S]*", form_filed)
         return None
